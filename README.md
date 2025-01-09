@@ -23,9 +23,9 @@ I'm Abdul Raheem, a passionate **Software Engineer** with a Bachelor's degree in
 - Programming concepts and problem-solving.
 
 ### 📫 How to reach me:
-- **Email**: [your-email@example.com](abdulraheemzxcv@gmail.com)
-- **2nd Email**: [your-email@example.com](raheem.abdul.dev@gmail.com)
-- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdul-raheem007/))
+- **Email**: [abdulraheemzxcv@gmail.com](abdulraheemzxcv@gmail.com)
+- **2nd Email**: [raheem.abdul.dev@gmail.com](raheem.abdul.dev@gmail.com)
+- **LinkedIn**: [LinkedIn Profile]([[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdul-raheem007)](https://www.linkedin.com/in/abdul-raheem007))
 
 ### ⚡ Fun fact:
 - I love learning about **emerging technologies** and applying them in my projects!
